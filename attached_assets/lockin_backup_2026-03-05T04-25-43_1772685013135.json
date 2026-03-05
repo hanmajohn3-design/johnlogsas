@@ -1,0 +1,2535 @@
+{
+  "exportedAt": "2026-03-05T04:25:43.951Z",
+  "data": {
+    "days": [
+      {
+        "id": 1,
+        "dayNumber": 1,
+        "status": "Logged",
+        "exercises": [
+          "Diamond push-ups — 1×40",
+          "Squats (25kg) — 1×30",
+          "Dumbbell curls (10 lbs each arm) — 1×100"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 2,
+        "dayNumber": 2,
+        "status": "Logged",
+        "exercises": [
+          "Diamond push-ups — 1×20",
+          "Normal push-ups — 1×20",
+          "Squats (25kg) — 1×35",
+          "Squats (25kg) — 1×30"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 3,
+        "dayNumber": 3,
+        "status": "Logged",
+        "exercises": [
+          "Squats (25kg) — 1×40",
+          "Squats (25kg) — 1×40"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 4,
+        "dayNumber": 4,
+        "status": "Logged",
+        "exercises": [
+          "Back squats (25kg) — 1×70",
+          "Back squats (25kg) — 1×80",
+          "Walking — 1×2h"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 5,
+        "dayNumber": 5,
+        "status": "Logged",
+        "exercises": [
+          "Back squats (25kg) — 1×100",
+          "Back squats (25kg) — 1×60",
+          "Bicep curls (10 lbs each arm) — 2×100",
+          "Bulgarian split squats (10 lbs each hand) — 1×15/leg",
+          "Deep side push-ups — 1×20",
+          "Diamond push-ups — 2×40",
+          "Walking — 1×2h"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 6,
+        "dayNumber": 6,
+        "status": "Logged",
+        "exercises": [
+          "Jogging — 2×5m",
+          "Plank — 1×1:00",
+          "Plank — 1×0:40",
+          "Sit-ups — 1×10",
+          "Back squats (load) — 1×30",
+          "Diamond push-ups — 1×20",
+          "Walking — 1×2h"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 7,
+        "dayNumber": 7,
+        "status": "Logged",
+        "exercises": [
+          "Back squats (load) — 1×110",
+          "Jogging (mouth closed) — 1×5m",
+          "Diamond push-ups — 1×40",
+          "Diamond push-ups — 1×20",
+          "Walking — 1×2h"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 8,
+        "dayNumber": 8,
+        "status": "Logged",
+        "exercises": [
+          "Back squats — 1×120",
+          "One-arm sack-of-rice lifts (25kg) — 1×5 (L)",
+          "One-arm sack-of-rice lifts (25kg) — 1×5 (R)"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 9,
+        "dayNumber": 9,
+        "status": "Logged",
+        "exercises": [
+          "One-arm lifts to waist level (20kg) — 2×20/arm",
+          "Back squats (20kg) — 1×139",
+          "Deep squats — 1×3"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 10,
+        "dayNumber": 10,
+        "status": "Logged",
+        "exercises": [
+          "Rest — 1×day"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 11,
+        "dayNumber": 11,
+        "status": "Logged",
+        "exercises": [
+          "One-hand bent pull (20kg) — 2×30",
+          "Lying sack lift to chest — 1×10",
+          "Hip thrust (20kg) — 1×50",
+          "Chest/lying lift — 1×20",
+          "Hip thrust (20kg) — 1×50"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 12,
+        "dayNumber": 12,
+        "status": "Logged",
+        "exercises": [
+          "Walking — 1×1.5h",
+          "Jog (mouth closed) — 1×7m",
+          "Jog — 1×1m",
+          "Plank — 2×1:00",
+          "Bulgarian split squats (no load) — 1×30/side",
+          "Diamond push-ups — 2×20",
+          "Bulgarian split squats (no load) — 1×10/side",
+          "Diamond push-ups — 1×20",
+          "Diamond push-ups — 1×40",
+          "Diamond push-ups — 1×30"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 13,
+        "dayNumber": 13,
+        "status": "Logged",
+        "exercises": [
+          "Back squats (20kg) — 1×150",
+          "Deep reps — 1×5",
+          "One-arm sack lifts (20kg) — 1×20/arm",
+          "Walking (no load) — 1×1.5h",
+          "Loaded walk (10kg backpack) — 1×1.5h",
+          "Bulgarian squats (with backpack) — 1×40/side",
+          "Diamond push-ups (with backpack) — 1×60",
+          "Plank — 1×1:00"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 14,
+        "dayNumber": 14,
+        "status": "Logged",
+        "exercises": [
+          "Back squats (20kg) — 1×160",
+          "Deep reps — 1×10",
+          "Back squats (20kg) — 1×5",
+          "Super deep reps — 1×15",
+          "Loaded walk — 1×1h10m",
+          "Bulgarian squats (with load) — 2×20",
+          "Diamond push-ups (with load) — 2×20",
+          "Plank — 1×1:00",
+          "One-arm pulls (20kg sack) — 2×20/side"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 16,
+        "dayNumber": 1,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 25kg (55 lb) — 3×10",
+          "Leg Press: 80kg (176 lb) — 3×12",
+          "Leg Extension: 25kg (55 lb) — 3×15",
+          "Diamond Push-ups — 2×15",
+          "Walk: 30 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 17,
+        "dayNumber": 2,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 30kg (66 lb) — 4×10",
+          "Romanian Deadlift: 30kg (66 lb) — 3×12",
+          "Walking Lunges (DB): 10kg each (22 lb each) — 3×12/leg",
+          "Plank — 2×45 sec",
+          "Walk: 45 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 18,
+        "dayNumber": 3,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 35kg (77 lb) — 4×10",
+          "Leg Press: 100kg (220 lb) — 4×12",
+          "Seated Leg Curl: 25kg (55 lb) — 3×15",
+          "Calf Raises: 60kg (132 lb) — 4×15",
+          "Walk: 45 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 19,
+        "dayNumber": 4,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 40kg (88 lb) — 5×8",
+          "Bulgarian Split Squat (DB): 12.5kg each (28 lb each) — 3×10/leg",
+          "Leg Extension: 30kg (66 lb) — 4×12",
+          "Diamond Push-ups — 3×15",
+          "Walk: 60 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 20,
+        "dayNumber": 5,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 45kg (99 lb) — 5×8",
+          "Romanian Deadlift: 45kg (99 lb) — 4×10",
+          "Leg Press: 120kg (265 lb) — 4×12",
+          "Cable Crunch — 3×15",
+          "Walk: 60 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 21,
+        "dayNumber": 6,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 50kg (110 lb) — 4×6",
+          "Lat Pulldown: 40kg (88 lb) — 4×10",
+          "Seated Row: 40kg (88 lb) — 3×10",
+          "Incline DB Press: 12.5kg each (28 lb each) — 3×10",
+          "Jog: 8 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 22,
+        "dayNumber": 7,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 60kg (132 lb) — 5×6",
+          "Leg Press: 140kg (309 lb) — 4×10",
+          "Leg Extension: 35kg (77 lb) — 4×12",
+          "Calf Raises: 80kg (176 lb) — 4×12",
+          "Walk: 90 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 23,
+        "dayNumber": 8,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 70kg (154 lb) — 5×5",
+          "Romanian Deadlift: 60kg (132 lb) — 4×8",
+          "Walking Lunges (DB): 15kg each (33 lb each) — 3×10/leg",
+          "Plank — 2×60 sec",
+          "Walk: 60 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 24,
+        "dayNumber": 9,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 75kg (165 lb) — 6×4",
+          "Leg Press: 160kg (353 lb) — 4×10",
+          "Seated Leg Curl: 35kg (77 lb) — 3×12",
+          "Cable Lateral Raise: 7.5kg (17 lb) — 3×15/side",
+          "Walk: 60 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 25,
+        "dayNumber": 10,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 80kg (176 lb) — 3×5 (lighter day)",
+          "Bench Press: 50kg (110 lb) — 4×8",
+          "Triceps Pushdown: 25kg (55 lb) — 3×12",
+          "DB Curls: 12.5kg each (28 lb each) — 3×12",
+          "Walk: 45 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 26,
+        "dayNumber": 11,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 85kg (187 lb) — 5×4",
+          "Romanian Deadlift: 70kg (154 lb) — 4×6",
+          "Bulgarian Split Squat (DB): 17.5kg each (39 lb each) — 3×8/leg",
+          "Hanging Knee Raises — 3×12",
+          "Walk: 60 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 27,
+        "dayNumber": 12,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 90kg (198 lb) — 5×3",
+          "Leg Press: 180kg (397 lb) — 4×8",
+          "Leg Extension: 40kg (88 lb) — 4×10",
+          "Calf Raises: 100kg (220 lb) — 4×12",
+          "Jog: 7 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 28,
+        "dayNumber": 13,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 95kg (209 lb) — 6×3",
+          "Seated Row: 50kg (110 lb) — 4×8",
+          "Incline DB Press: 17.5kg each (39 lb each) — 4×8",
+          "Face Pulls: 20kg (44 lb) — 3×15",
+          "Walk: 90 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 30,
+        "dayNumber": 15,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 110kg (243 lb) — 1×5 (PR set) + 3×3 back-off at 95kg (209 lb)",
+          "Leg Press: 200kg (441 lb) — 4×8",
+          "Bulgarian Split Squat (DB): 22.5kg each (50 lb each) — 3×8/leg",
+          "Diamond Push-ups — 3×15",
+          "Loaded Walk: 60–90 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 15,
+        "dayNumber": 15,
+        "status": "Logged",
+        "exercises": [
+          "Back squats (20kg) — 1×160",
+          "Deep reps — 1×10",
+          "Back squats (20kg) — 1×5",
+          "Super deep reps — 1×15",
+          "Loaded walk — 1×1h10m",
+          "Bulgarian squats (with load) — 2×20",
+          "Diamond push-ups (with load) — 2×20",
+          "Plank — 1×1:00",
+          "One-arm pulls (20kg sack) — 2×20/side"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 1,
+        "dayNumber": 16,
+        "status": "Logged",
+        "exercises": [
+          "Push-ups — 3x20",
+          "Squats — 3x30",
+          "Plank — 3x1:00"
+        ],
+        "category": "home"
+      },
+      {
+        "id": 2,
+        "dayNumber": 16,
+        "status": "Logged",
+        "exercises": [
+          "Back Squat: 120kg (265 lb) — 5x5",
+          "Leg Press: 250kg (551 lb) — 4x8",
+          "Bulgarian Split Squat (DB): 27.5kg each (61 lb each) — 3x8/leg",
+          "Diamond Push-ups — 3x20",
+          "Loaded Walk: 90-120 min"
+        ],
+        "category": "gym"
+      },
+      {
+        "id": 3,
+        "dayNumber": 14,
+        "status": "Logged",
+        "exercises": [
+          "Deadlifts: 80kg (176 lb) — 3x5",
+          "Overhead Press: 30kg (66 lb) — 3x8",
+          "Barbell Rows: 50kg (110 lb) — 3x10",
+          "Plank — 3x1:00",
+          "Jog: 10 min"
+        ],
+        "category": "gym"
+      }
+    ],
+    "visitors": [
+      {
+        "id": 1,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T01:23:12.549Z"
+      },
+      {
+        "id": 2,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar13b%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T01:23:14.842Z"
+      },
+      {
+        "id": 3,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:24:35.210Z"
+      },
+      {
+        "id": 4,
+        "fingerprint": "fp_e1yf3c",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar14p%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T01:24:37.039Z"
+      },
+      {
+        "id": 5,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar165%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:29:35.628Z"
+      },
+      {
+        "id": 6,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar172%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:30:01.692Z"
+      },
+      {
+        "id": 7,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar17n%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:30:42.502Z"
+      },
+      {
+        "id": 8,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar184%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:31:17.807Z"
+      },
+      {
+        "id": 9,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar18h%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:31:52.067Z"
+      },
+      {
+        "id": 10,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar18v%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:32:28.338Z"
+      },
+      {
+        "id": 11,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar1a4%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:33:38.640Z"
+      },
+      {
+        "id": 12,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar1b6%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:39:22.226Z"
+      },
+      {
+        "id": 13,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar1bk%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:39:40.178Z"
+      },
+      {
+        "id": 14,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:39:40.615Z"
+      },
+      {
+        "id": 15,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar1c6%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:42:48.040Z"
+      },
+      {
+        "id": 16,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar1d6%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:44:51.232Z"
+      },
+      {
+        "id": 17,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:45:41.812Z"
+      },
+      {
+        "id": 18,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar1dn%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:46:05.955Z"
+      },
+      {
+        "id": 19,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar4n%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T01:55:21.752Z"
+      },
+      {
+        "id": 20,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:06:39.391Z"
+      },
+      {
+        "id": 21,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar63%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:06:39.586Z"
+      },
+      {
+        "id": 22,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:06:43.135Z"
+      },
+      {
+        "id": 23,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar6s%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:09:12.049Z"
+      },
+      {
+        "id": 24,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:09:17.243Z"
+      },
+      {
+        "id": 25,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:10:23.028Z"
+      },
+      {
+        "id": 26,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar6s%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:15:35.945Z"
+      },
+      {
+        "id": 27,
+        "fingerprint": "fp_66rqva",
+        "referrer": "direct",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T02:26:43.879Z"
+      },
+      {
+        "id": 28,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:27:18.644Z"
+      },
+      {
+        "id": 29,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar9m%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:27:45.354Z"
+      },
+      {
+        "id": 30,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ara5%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:29:02.925Z"
+      },
+      {
+        "id": 31,
+        "fingerprint": "fp_1dmq4w",
+        "referrer": "direct",
+        "country": "United States",
+        "city": "Council Bluffs",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T02:29:31.689Z"
+      },
+      {
+        "id": 32,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arak%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:29:33.823Z"
+      },
+      {
+        "id": 33,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arb1%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:31:42.258Z"
+      },
+      {
+        "id": 34,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arbe%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:32:27.620Z"
+      },
+      {
+        "id": 35,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arbe%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T02:37:12.630Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:00:24.885Z"
+      },
+      {
+        "id": 37,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arij%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:00:26.278Z"
+      },
+      {
+        "id": 38,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://replit.com/",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:02:32.753Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arkm%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:07:54.734Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Armg%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:11:16.887Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:17:41.212Z"
+      },
+      {
+        "id": 37,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar41%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:20:10.600Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arbo%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:30:17.617Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:40:53.201Z"
+      },
+      {
+        "id": 37,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Are5%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:40:57.793Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arg8%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:45:26.192Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arh2%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:47:08.934Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arif%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:47:49.881Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arjb%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:50:05.850Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arks%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:52:13.838Z"
+      },
+      {
+        "id": 37,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arme%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:52:28.694Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Aro3%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:53:29.186Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arp7%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:55:57.633Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arqa%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:58:08.037Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arr0%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T03:59:53.408Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arse%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T04:06:46.379Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Artg%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T04:07:53.356Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_1dmq4w",
+        "referrer": "direct",
+        "country": "United States",
+        "city": "Council Bluffs",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T04:09:42.325Z"
+      },
+      {
+        "id": 37,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Aruk%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T04:09:47.133Z"
+      },
+      {
+        "id": 36,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arvv%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T04:11:12.165Z"
+      },
+      {
+        "id": 37,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arvv%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T04:14:28.974Z"
+      },
+      {
+        "id": 38,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T04:20:31.627Z"
+      },
+      {
+        "id": 39,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar5e%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T04:21:22.359Z"
+      },
+      {
+        "id": 40,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "https://8661198d-520e-4e7c-a6d2-f9d61ac0fe0c-00-3igurzy8q57g8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar7v%3A",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T04:22:40.751Z"
+      },
+      {
+        "id": 41,
+        "fingerprint": "fp_notv4c",
+        "referrer": "direct",
+        "country": "United States",
+        "city": "Ashburn",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T05:23:31.326Z"
+      },
+      {
+        "id": 42,
+        "fingerprint": "fp_rcu4hd",
+        "referrer": "direct",
+        "country": "United States",
+        "city": "North Bergen",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T05:23:34.531Z"
+      },
+      {
+        "id": 43,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "direct",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T05:23:47.622Z"
+      },
+      {
+        "id": 44,
+        "fingerprint": "fp_eb5uv9",
+        "referrer": "direct",
+        "country": "United States",
+        "city": "Dallas",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T05:24:41.751Z"
+      },
+      {
+        "id": 45,
+        "fingerprint": "fp_ckhpmk",
+        "referrer": "https://www.facebook.com/",
+        "country": "United States",
+        "city": "Prineville",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T05:25:51.152Z"
+      },
+      {
+        "id": 46,
+        "fingerprint": "fp_ckhpmm",
+        "referrer": "https://www.facebook.com/",
+        "country": "United States",
+        "city": "Fort Worth",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T05:30:51.109Z"
+      },
+      {
+        "id": 47,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "direct",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T05:39:35.255Z"
+      },
+      {
+        "id": 48,
+        "fingerprint": "fp_llwghu",
+        "referrer": "direct",
+        "country": "Japan",
+        "city": "Tokyo",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T05:45:02.654Z"
+      },
+      {
+        "id": 49,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "direct",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T05:45:53.560Z"
+      },
+      {
+        "id": 50,
+        "fingerprint": "fp_notv4c",
+        "referrer": "direct",
+        "country": "United States",
+        "city": "Ashburn",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T05:50:58.290Z"
+      },
+      {
+        "id": 51,
+        "fingerprint": "fp_notv4c",
+        "referrer": "direct",
+        "country": "United States",
+        "city": "Ashburn",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T05:52:43.478Z"
+      },
+      {
+        "id": 52,
+        "fingerprint": "fp_xcxiso",
+        "referrer": "direct",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T05:53:59.343Z"
+      },
+      {
+        "id": 53,
+        "fingerprint": "fp_notv4c",
+        "referrer": "direct",
+        "country": "United States",
+        "city": "Ashburn",
+        "isUnique": false,
+        "visitedAt": "2026-03-02T05:54:03.625Z"
+      },
+      {
+        "id": 54,
+        "fingerprint": "fp_ms6ny5",
+        "referrer": "http://instagram.com/",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T05:58:58.390Z"
+      },
+      {
+        "id": 55,
+        "fingerprint": "fp_ommi4z",
+        "referrer": "https://www.facebook.com/",
+        "country": "United States",
+        "city": "Fort Worth",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T06:00:17.427Z"
+      },
+      {
+        "id": 56,
+        "fingerprint": "fp_5nwxf",
+        "referrer": "direct",
+        "country": "Philippines",
+        "city": "Pasig",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T06:22:07.385Z"
+      },
+      {
+        "id": 57,
+        "fingerprint": "fp_i132cj",
+        "referrer": "https://l.instagram.com/",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T06:29:33.520Z"
+      },
+      {
+        "id": 58,
+        "fingerprint": "fp_vda418",
+        "referrer": "https://john-e-logs.netlify.app/",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": true,
+        "visitedAt": "2026-03-02T06:30:34.817Z"
+      },
+      {
+        "id": 59,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "direct",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": true,
+        "visitedAt": "2026-03-03T02:50:08.240Z"
+      },
+      {
+        "id": 60,
+        "fingerprint": "fp_ayrq7q",
+        "referrer": "https://l.instagram.com/",
+        "country": "Philippines",
+        "city": "San Juan",
+        "isUnique": true,
+        "visitedAt": "2026-03-03T08:42:44.626Z"
+      },
+      {
+        "id": 61,
+        "fingerprint": "fp_rvwpel",
+        "referrer": "https://l.instagram.com/",
+        "country": "Philippines",
+        "city": "Apas",
+        "isUnique": true,
+        "visitedAt": "2026-03-03T08:42:53.469Z"
+      },
+      {
+        "id": 62,
+        "fingerprint": "fp_ms6ny5",
+        "referrer": "https://l.instagram.com/",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": false,
+        "visitedAt": "2026-03-03T16:30:26.598Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": false,
+        "visitedAt": "2026-03-04T07:42:42.255Z"
+      },
+      {
+        "id": 2,
+        "fingerprint": "fp_bjlqc3",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar10r%3A",
+        "country": "Philippines",
+        "city": "Pasig",
+        "isUnique": true,
+        "visitedAt": "2026-03-04T07:43:44.878Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_bjlqc3",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar10r%3A",
+        "country": "Philippines",
+        "city": "Pasig",
+        "isUnique": false,
+        "visitedAt": "2026-03-04T07:44:16.764Z"
+      },
+      {
+        "id": 2,
+        "fingerprint": "fp_9vqwre",
+        "referrer": "http://m.facebook.com/",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "isUnique": true,
+        "visitedAt": "2026-03-04T17:29:17.670Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar43%3A",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T03:46:24.150Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T03:57:44.940Z"
+      },
+      {
+        "id": 2,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar7e%3A",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T03:57:47.175Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T03:58:13.482Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:04:30.581Z"
+      },
+      {
+        "id": 2,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar9f%3A",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:04:52.256Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:07:28.080Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:07:50.638Z"
+      },
+      {
+        "id": 2,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:07:58.729Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:13:01.327Z"
+      },
+      {
+        "id": 2,
+        "fingerprint": "fp_rgst93",
+        "referrer": "direct",
+        "country": "Unknown",
+        "city": "Unknown",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:13:09.635Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_1dmq4w",
+        "referrer": "direct",
+        "country": "United States",
+        "city": "Council Bluffs",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:13:49.909Z"
+      },
+      {
+        "id": 2,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:13:52.996Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arn9%3A",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:16:16.627Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arog%3A",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:17:22.190Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_1dmq4w",
+        "referrer": "direct",
+        "country": "United States",
+        "city": "Council Bluffs",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:17:58.840Z"
+      },
+      {
+        "id": 2,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:18:05.817Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:19:37.987Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:25:01.706Z"
+      },
+      {
+        "id": 1,
+        "fingerprint": "fp_1dmq4w",
+        "referrer": "direct",
+        "country": "United States",
+        "city": "Council Bluffs",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:25:21.310Z"
+      },
+      {
+        "id": 2,
+        "fingerprint": "fp_to6iyn",
+        "referrer": "https://c79c7cc8-d845-49ca-8236-ee948d5cb69c-00-3n59irtcwttjr.riker.replit.dev/",
+        "country": "Philippines",
+        "city": "Manila",
+        "isUnique": false,
+        "visitedAt": "2026-03-05T04:25:33.921Z"
+      }
+    ],
+    "chat_memory": [
+      {
+        "id": 13,
+        "role": "user",
+        "content": "ghgh",
+        "createdAt": "2026-03-02T01:45:22.008Z"
+      },
+      {
+        "id": 14,
+        "role": "model",
+        "content": "It seems like that wasn't a workout entry, John! No worries at all.\n\nWhenever you're ready to log your next session, just tell me what you did. I'm here to track your progress and cheer you on! Keep up the great work! 💪",
+        "createdAt": "2026-03-02T01:45:23.248Z"
+      },
+      {
+        "id": 15,
+        "role": "user",
+        "content": "test",
+        "createdAt": "2026-03-02T01:45:26.317Z"
+      },
+      {
+        "id": 16,
+        "role": "model",
+        "content": "Got it, John! That's not a workout entry, but it's good to hear from you.\n\nRemember, I'm here to help you log your exercises whenever you're ready. Keep up the fantastic work on your fitness journey! 💪",
+        "createdAt": "2026-03-02T01:45:27.228Z"
+      },
+      {
+        "id": 17,
+        "role": "user",
+        "content": "Who are you",
+        "createdAt": "2026-03-02T01:45:31.515Z"
+      },
+      {
+        "id": 18,
+        "role": "model",
+        "content": "I'm your personal AI workout assistant, here in the \"John's Lock-In Logs\" app! My job is to:\n\n*   **Track your progress** as you log your workouts.\n*   **Keep you motivated** and celebrate your achievements.\n*   **Provide insights** based on your workout history.\n*   **Help you stay consistent** on your fitness journey!\n\nThink of me as your dedicated fitness companion. How can I help you today, John? 💪",
+        "createdAt": "2026-03-02T01:45:32.632Z"
+      },
+      {
+        "id": 19,
+        "role": "user",
+        "content": "What day is most intesne",
+        "createdAt": "2026-03-02T01:45:38.681Z"
+      },
+      {
+        "id": 20,
+        "role": "model",
+        "content": "That's a great question, John! Looking through your logs, the concept of \"most intense\" can be subjective, but based on the weights lifted, reps performed, and explicit milestones:\n\nFor your **Gym Workouts**:\n\n*   **Gym Workout Day 15** stands out as particularly intense! You hit a **Personal Record (PR) of 110kg (243 lb) for 5 reps on your Back Squat!** That's a huge achievement. You also lifted your heaviest ever on Leg Press (200kg) and Bulgarian Split Squats (22.5kg each hand). This day was a true test of strength and endurance.\n\n**Gym Workout Day 14** was also extremely intense, hitting 100kg on back squats for an AMRAP of 6 reps, along with very heavy Romanian Deadlifts and Walking Lunges.\n\nFor your **Home Workouts**:\n\n*   **Home Workout Day 13, 14, and 15** (which were identical logs) were incredibly high-volume and challenging, especially with:\n    *   Back Squats (20kg) up to **160 reps** (Day 14 & 15).\n    *   Significant loaded walks (up to 1.5h with a 10kg backpack).\n    *   Weighted Bulgarian squats and diamond push-ups (with backpack).\n\nIt's clear you've been pushing your limits consistently! **Hitting that 110kg 5-rep squat PR on Gym Day 15 is a phenomenal highlight!** Keep up the incredible work, John! 💪",
+        "createdAt": "2026-03-02T01:45:45.943Z"
+      },
+      {
+        "id": 21,
+        "role": "user",
+        "content": "What day is most low",
+        "createdAt": "2026-03-02T01:46:24.833Z"
+      },
+      {
+        "id": 22,
+        "role": "model",
+        "content": "Based on your logs, the \"most low\" or least intense day is clearly:\n\n*   **Home Workout Day 10: Rest — 1×day**\n\nThis was a dedicated rest day, which is essential for recovery and growth!\n\nWhile **Gym Workout Day 10** was noted as a \"lighter day\" for your back squats (80kg for 3x5), you still performed other exercises like Bench Press, Triceps Pushdown, DB Curls, and a walk. A full rest day is the ultimate \"low intensity\" day.\n\nSmart move incorporating rest into your routine, John! It's just as important as the hard work. 💪",
+        "createdAt": "2026-03-02T01:46:27.059Z"
+      },
+      {
+        "id": 23,
+        "role": "user",
+        "content": "Not including the d10",
+        "createdAt": "2026-03-02T01:46:48.652Z"
+      },
+      {
+        "id": 24,
+        "role": "model",
+        "content": "Okay, John, excluding the full rest day (Home Workout Day 10), let's find the day with the \"most low\" intensity or volume.\n\nLooking across your other logged workouts:\n\n*   **Home Workout Day 3** stands out as having the fewest distinct exercises and a very focused session:\n    *   **Squats (25kg) — 1×40**\n    *   **Squats (25kg) — 1×40**\n\nWhile 80 squats at 25kg is still good work, compared to other days that include multiple exercises, long walks, jogs, and higher rep counts or heavier loads across various movements, Day 3 is the most streamlined and likely the shortest in terms of time spent on the actual exercises.\n\nIt's a great example of a focused, foundational session! Keep up the consistent effort, John! 💪",
+        "createdAt": "2026-03-02T01:46:57.616Z"
+      },
+      {
+        "id": 25,
+        "role": "user",
+        "content": "What is top 5",
+        "createdAt": "2026-03-02T01:49:30.566Z"
+      },
+      {
+        "id": 26,
+        "role": "model",
+        "content": "Okay, John, that's a fun challenge! When you say \"top 5,\" I'll interpret that as the **5 most impressive days based on significant lifts, high volume, or major progress markers** from your logs.\n\nHere are my picks for your Top 5 Workout Days:\n\n1.  **Gym Workout Day 15:** Absolutely stellar! You hit a massive **Personal Record (PR) of 110kg (243 lb) for 5 reps on your Back Squat!** On top of that, you pushed 200kg on Leg Press and 22.5kg per hand on Bulgarian Split Squats. **Phenomenal strength display!**\n2.  **Gym Workout Day 14:** Another powerhouse squat day, hitting **100kg (220 lb) for 5 sets of 2 reps, followed by an AMRAP of 6 reps**! Paired with heavy Romanian Deadlifts (80kg) and loaded Walking Lunges, this was an incredibly demanding session.\n3.  **Home Workout Day 15 (or 14):** (These days are identical and equally impressive!) The sheer volume here is incredible: **160 reps of Back Squats with 20kg**, multiple deep rep sets, a 1 hour 10 minute loaded walk, and weighted Bulgarian Squats and Diamond Push-ups. **This shows incredible endurance and grit!**\n4.  **Home Workout Day 13:** Right up there with Day 14/15, featuring **150 reps of Back Squats (20kg)**, significant one-arm sack lifts, a 1.5-hour loaded walk with a 10kg backpack, and weighted bodyweight exercises. **Another huge test of stamina and strength!**\n5.  **Gym Workout Day 7:** This day marked a significant leap in your gym back squat, moving up to **60kg (132 lb) for 5 sets of 6 reps**, combined with a heavy Leg Press (140kg) and a long walk. It was a clear demonstration of strength progression early in your gym journey.\n\nYou've been putting in some serious work, John! These days really highlight your dedication and increasing strength. Keep pushing those limits! 💪",
+        "createdAt": "2026-03-02T01:49:40.127Z"
+      },
+      {
+        "id": 27,
+        "role": "user",
+        "content": "Do you consider my growth as fast? If we dont include the gym, only home",
+        "createdAt": "2026-03-02T01:50:27.488Z"
+      },
+      {
+        "id": 28,
+        "role": "model",
+        "content": "John, looking *solely* at your **Home Workouts**, I can definitively say your growth has been **remarkably fast and incredibly impressive!**\n\nHere's why:\n\n*   **Explosive Volume Increase:** In just 15 days, you went from 30 reps of 25kg squats (Day 1) to consistently performing **160+ reps of 20kg squats** plus deep reps (Days 14 & 15). That's an outstanding increase in work capacity and muscular endurance!\n*   **Progressive Overload with Bodyweight:** You significantly ramped up your diamond push-ups, going from 40 reps on Day 1 to 110 total reps on Day 12, and then adding a **backpack for 60 reps** on Day 13. This shows excellent strength gain.\n*   **Integration of Functional Strength:** You quickly incorporated varied, challenging movements using your 20-25kg sack, like one-arm lifts, hip thrusts, and pulls, and steadily increased reps/sets.\n*   **Consistent Cardio Development:** Moving from 2 hours of unweighted walking to integrating jogging and then long **loaded walks with a 10kg backpack** within the first two weeks is fantastic for overall fitness and endurance.\n\nYour ability to adapt, increase volume, and challenge yourself with added load and advanced bodyweight variations in such a short timeframe is a testament to your hard work and consistency. **You're making incredible progress!** Keep it up! 💪",
+        "createdAt": "2026-03-02T01:50:36.022Z"
+      },
+      {
+        "id": 29,
+        "role": "user",
+        "content": "For d16 create a dummy plan in home and push it into our database",
+        "createdAt": "2026-03-02T02:08:53.183Z"
+      },
+      {
+        "id": 30,
+        "role": "model",
+        "content": "Awesome, John! I've successfully saved a dummy workout plan for **Home Day 16** to your database!\n\nHere's what's logged:\n*   Diamond Push-ups — 2x50\n*   Back Squats (bodyweight) — 3x60\n*   Plank — 2x1:15\n*   Bulgarian Split Squats (no load) — 2x20/leg\n*   Walking — 1x1h 30m\n\nThis looks like a solid and challenging home session! Keep up the incredible work and dedication! 💪",
+        "createdAt": "2026-03-02T02:08:56.433Z"
+      },
+      {
+        "id": 31,
+        "role": "user",
+        "content": "Delete d16",
+        "createdAt": "2026-03-02T02:09:54.104Z"
+      },
+      {
+        "id": 32,
+        "role": "model",
+        "content": "Understood, John! I've gone ahead and **deleted Home Workout Day 16** for you.\n\nYou're doing great with your logs, keep up the flexibility and consistency! 💪",
+        "createdAt": "2026-03-02T02:09:55.177Z"
+      },
+      {
+        "id": 33,
+        "role": "user",
+        "content": "Anything just add them and push to the dB",
+        "createdAt": "2026-03-02T02:14:53.880Z"
+      },
+      {
+        "id": 34,
+        "role": "model",
+        "content": "I can definitely help you add a new workout to your database, John!\n\nTo do that, I need a little more information:\n\n1.  **What category is this for?** (Home or Gym)\n2.  **What day number is it?** (e.g., Day 16, Day 17)\n3.  **What are the exercises you want to add?** (Just list them out!)\n\nOnce I have those details, I'll get it logged for you right away! Keep up the great work! 💪",
+        "createdAt": "2026-03-02T02:14:55.239Z"
+      },
+      {
+        "id": 35,
+        "role": "user",
+        "content": "home",
+        "createdAt": "2026-03-02T02:15:03.720Z"
+      },
+      {
+        "id": 36,
+        "role": "model",
+        "content": "Got it, John! We're looking at a **Home workout**.\n\nNow, what **day number** is this workout for, and what **exercises** did you do? Just list them out for me!\n\nLet's get this logged! 💪",
+        "createdAt": "2026-03-02T02:15:04.471Z"
+      },
+      {
+        "id": 37,
+        "role": "user",
+        "content": "DAY 16 LOG",
+        "createdAt": "2026-03-02T02:15:58.189Z"
+      },
+      {
+        "id": 38,
+        "role": "model",
+        "content": "Excellent, John! So it's **Home Workout Day 16**.\n\nNow, please tell me **what exercises you did** for Day 16! Just list them out, and I'll get them logged for you.\n\nLet's do this! 💪",
+        "createdAt": "2026-03-02T02:15:59.228Z"
+      },
+      {
+        "id": 39,
+        "role": "user",
+        "content": "For d16 create a dummy plan in home and push it into our database",
+        "createdAt": "2026-03-02T02:16:15.103Z"
+      },
+      {
+        "id": 40,
+        "role": "model",
+        "content": "Awesome, John! I've successfully saved a dummy workout plan for **Home Day 16** to your database!\n\nHere's what's logged:\n*   Diamond Push-ups — 2x50\n*   Back Squats (bodyweight) — 3x60\n*   Plank — 2x1:15\n*   Bulgarian Split Squats (no load) — 2x20/leg\n*   Walking — 1x1h 30m\n\nThis looks like a solid and challenging home session! Keep up the incredible work and dedication! 💪",
+        "createdAt": "2026-03-02T02:16:17.222Z"
+      },
+      {
+        "id": 41,
+        "role": "user",
+        "content": "Update d16 home with any dummy exercise, 9 types",
+        "createdAt": "2026-03-02T02:18:59.972Z"
+      },
+      {
+        "id": 42,
+        "role": "model",
+        "content": "Great job, John! I've updated **Home Workout Day 16** with 9 new dummy exercises.\n\nIt's fantastic to see you keeping your workouts fresh and varied! Keep pushing yourself! 💪",
+        "createdAt": "2026-03-02T02:19:02.570Z"
+      },
+      {
+        "id": 43,
+        "role": "user",
+        "content": "What are those 9?",
+        "createdAt": "2026-03-02T02:19:41.624Z"
+      },
+      {
+        "id": 44,
+        "role": "model",
+        "content": "Okay, John! I've pulled up Home Workout Day 16 for you. Here are the 9 dummy exercises you've got logged:\n\n1.  Dummy Exercise 1 — 3x10\n2.  Dummy Exercise 2 — 4x12\n3.  Dummy Exercise 3 — 2x15\n4.  Dummy Exercise 4 — 3x8/side\n5.  Dummy Exercise 5 — 1x50\n6.  Dummy Exercise 6 — 2x20\n7.  Dummy Exercise 7 — 1x1:00\n8.  Dummy Exercise 8 — 1x10m\n9.  Dummy Exercise 9 — 1x45m\n\nThat's a diverse set of exercises! Keep up the excellent work varying your routine, John! 💪",
+        "createdAt": "2026-03-02T02:19:43.864Z"
+      },
+      {
+        "id": 5,
+        "role": "user",
+        "content": "WHAT DAY IS TODAY",
+        "createdAt": "2026-03-02T03:03:21.908Z"
+      },
+      {
+        "id": 6,
+        "role": "user",
+        "content": "WHO ARE YOU",
+        "createdAt": "2026-03-02T03:03:34.910Z"
+      },
+      {
+        "id": 7,
+        "role": "user",
+        "content": "1+1",
+        "createdAt": "2026-03-02T03:03:56.076Z"
+      },
+      {
+        "id": 8,
+        "role": "user",
+        "content": "test",
+        "createdAt": "2026-03-02T03:06:29.778Z"
+      },
+      {
+        "id": 9,
+        "role": "user",
+        "content": "tes",
+        "createdAt": "2026-03-02T03:06:34.052Z"
+      },
+      {
+        "id": 10,
+        "role": "user",
+        "content": "test",
+        "createdAt": "2026-03-02T03:06:40.657Z"
+      },
+      {
+        "id": 11,
+        "role": "user",
+        "content": "test",
+        "createdAt": "2026-03-02T03:06:50.396Z"
+      },
+      {
+        "id": 12,
+        "role": "user",
+        "content": "test",
+        "createdAt": "2026-03-02T03:06:55.575Z"
+      },
+      {
+        "id": 13,
+        "role": "user",
+        "content": "point",
+        "createdAt": "2026-03-02T03:07:25.822Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "test",
+        "createdAt": "2026-03-02T03:07:51.637Z"
+      },
+      {
+        "id": 46,
+        "role": "model",
+        "content": "Today's date is **March 2, 2026**.\n\nI am your personal AI workout assistant, here in the \"John's Lock-In Logs\" app! My purpose is to help you track your workouts, stay motivated, and achieve your fitness goals.\n\n1 + 1 equals **2**.\n\nFor the other inputs (\"test\", \"tes\", \"pointtest\"), it seems like you're just testing things out, which is totally fine! Remember, whenever you're ready to log your actual workouts or have any fitness-related questions, I'm here to help you out. Keep up the great work, John! 💪",
+        "createdAt": "2026-03-02T03:07:53.461Z"
+      },
+      {
+        "id": 47,
+        "role": "user",
+        "content": "can you search for daily news in usa",
+        "createdAt": "2026-03-02T03:08:20.263Z"
+      },
+      {
+        "id": 48,
+        "role": "model",
+        "content": "I'm sorry, John, but I'm an AI designed specifically to help you with your workouts and fitness logging within \"John's Lock-In Logs\" app. I don't have the ability to browse the internet for daily news.\n\nMy focus is entirely on your fitness journey! How can I help you with your workouts today? 💪",
+        "createdAt": "2026-03-02T03:08:21.438Z"
+      },
+      {
+        "id": 49,
+        "role": "user",
+        "content": "REMIND ME IN 10 SECS TO DRINK WATER",
+        "createdAt": "2026-03-02T03:10:34.556Z"
+      },
+      {
+        "id": 50,
+        "role": "model",
+        "content": "Alright, John! I've set a reminder for you. You'll get a message in 10 seconds reminding you to **Drink water**.\n\nStaying hydrated is crucial for your performance and recovery! Great thinking! 💪",
+        "createdAt": "2026-03-02T03:10:37.336Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "remind me to drink in 10  sec",
+        "createdAt": "2026-03-02T03:11:39.167Z"
+      },
+      {
+        "id": 46,
+        "role": "model",
+        "content": "Got it, John! I've set a reminder for you to **drink** in 10 seconds.\n\nHydration is key for peak performance and recovery! Excellent initiative! 💪",
+        "createdAt": "2026-03-02T03:11:40.975Z"
+      },
+      {
+        "id": 47,
+        "role": "user",
+        "content": "what time is it",
+        "createdAt": "2026-03-02T03:13:28.178Z"
+      },
+      {
+        "id": 48,
+        "role": "model",
+        "content": "It's **11:07:43 AM** on March 2, 2026.\n\nKeep that fitness clock ticking, John! 💪",
+        "createdAt": "2026-03-02T03:13:29.206Z"
+      },
+      {
+        "id": 49,
+        "role": "user",
+        "content": "what time is it",
+        "createdAt": "2026-03-02T03:13:29.977Z"
+      },
+      {
+        "id": 50,
+        "role": "user",
+        "content": "chat",
+        "createdAt": "2026-03-02T03:15:10.726Z"
+      },
+      {
+        "id": 51,
+        "role": "model",
+        "content": "It's **11:07:43 AM** on March 2, 2026.\n\nReady for your next workout, John? 💪",
+        "createdAt": "2026-03-02T03:15:11.533Z"
+      },
+      {
+        "id": 52,
+        "role": "user",
+        "content": "chat",
+        "createdAt": "2026-03-02T03:15:12.476Z"
+      },
+      {
+        "id": 53,
+        "role": "user",
+        "content": "remind me to drink in 10  sec",
+        "createdAt": "2026-03-02T03:15:21.811Z"
+      },
+      {
+        "id": 54,
+        "role": "model",
+        "content": "Got it, John! I've set a reminder for you to **drink** in 10 seconds.\n\nHydration is key for peak performance and recovery! Excellent initiative! 💪",
+        "createdAt": "2026-03-02T03:15:23.528Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "HI",
+        "createdAt": "2026-03-02T03:18:19.933Z"
+      },
+      {
+        "id": 46,
+        "role": "model",
+        "content": "Hey there, John! Great to hear from you.\n\nHow can I help you with your workout goals or logs today? I'm ready to assist! 💪",
+        "createdAt": "2026-03-02T03:18:20.986Z"
+      },
+      {
+        "id": 47,
+        "role": "user",
+        "content": "REMIND ME TO DRINK WATER IN 10 SECONDS ONCE ONLY",
+        "createdAt": "2026-03-02T03:18:37.103Z"
+      },
+      {
+        "id": 48,
+        "role": "model",
+        "content": "Alright, John! I've set a **one-time reminder** for you to **Drink water** in 10 seconds.\n\nStaying well-hydrated is super important for your energy and recovery! Keep up the great work! 💪",
+        "createdAt": "2026-03-02T03:18:41.908Z"
+      },
+      {
+        "id": 49,
+        "role": "user",
+        "content": "REMIND ME TO DRINK CREATINE IN 10 SECONDS ONCE ONLY",
+        "createdAt": "2026-03-02T03:19:16.502Z"
+      },
+      {
+        "id": 50,
+        "role": "model",
+        "content": "Alright, John! I've set a **one-time reminder** for you to **Drink creatine** in 10 seconds.\n\nGreat proactive step for your fitness and recovery! Keep up that dedication, John! 💪",
+        "createdAt": "2026-03-02T03:19:18.677Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "REMIND ME IN 20 SEC TO DRINK WHEY",
+        "createdAt": "2026-03-02T03:33:17.573Z"
+      },
+      {
+        "id": 47,
+        "role": "model",
+        "content": "Alright, John! I've set a reminder for you to **Drink whey** in 20 seconds.\n\nGreat planning for your post-workout recovery! Keep those gains coming! 💪",
+        "createdAt": "2026-03-02T03:33:19.982Z"
+      },
+      {
+        "id": 46,
+        "role": "user",
+        "content": "REMIND ME IN 20 SEC TO DRINK WHEY",
+        "createdAt": "2026-03-02T03:33:20.120Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "SUP",
+        "createdAt": "2026-03-02T03:43:29.319Z"
+      },
+      {
+        "id": 46,
+        "role": "user",
+        "content": "SUP",
+        "createdAt": "2026-03-02T03:43:39.490Z"
+      },
+      {
+        "id": 47,
+        "role": "model",
+        "content": "Done!",
+        "createdAt": "2026-03-02T03:43:40.727Z"
+      },
+      {
+        "id": 48,
+        "role": "user",
+        "content": "SUP",
+        "createdAt": "2026-03-02T03:43:48.757Z"
+      },
+      {
+        "id": 49,
+        "role": "user",
+        "content": "see",
+        "createdAt": "2026-03-02T03:44:53.619Z"
+      },
+      {
+        "id": 50,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:44:56.099Z"
+      },
+      {
+        "id": 51,
+        "role": "model",
+        "content": "Hey there, John!\n\nHow can I help you with your fitness journey today? Ready to log a workout or discuss your progress? 💪",
+        "createdAt": "2026-03-02T03:44:57.207Z"
+      },
+      {
+        "id": 52,
+        "role": "user",
+        "content": "who are you",
+        "createdAt": "2026-03-02T03:45:03.425Z"
+      },
+      {
+        "id": 53,
+        "role": "model",
+        "content": "I'm your personal AI workout assistant, here in the \"John's Lock-In Logs\" app! My job is to:\n\n*   **Track your progress** as you log your workouts.\n*   **Keep you motivated** and celebrate your achievements.\n*   **Provide insights** based on your workout history.\n*   **Help you stay consistent** on your fitness journey!\n\nThink of me as your dedicated fitness companion. How can I help you today, John? 💪",
+        "createdAt": "2026-03-02T03:45:04.556Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "how",
+        "createdAt": "2026-03-02T03:45:25.219Z"
+      },
+      {
+        "id": 46,
+        "role": "user",
+        "content": "1/1",
+        "createdAt": "2026-03-02T03:45:32.819Z"
+      },
+      {
+        "id": 47,
+        "role": "user",
+        "content": "1+1",
+        "createdAt": "2026-03-02T03:45:40.819Z"
+      },
+      {
+        "id": 48,
+        "role": "user",
+        "content": "see",
+        "createdAt": "2026-03-02T03:45:54.119Z"
+      },
+      {
+        "id": 49,
+        "role": "user",
+        "content": "1+1",
+        "createdAt": "2026-03-02T03:46:18.094Z"
+      },
+      {
+        "id": 50,
+        "role": "user",
+        "content": "1+1",
+        "createdAt": "2026-03-02T03:46:19.419Z"
+      },
+      {
+        "id": 51,
+        "role": "model",
+        "content": "Here's what I can do for you, John:\n\n*   **Log your workouts**: Tell me the category (home/gym), day number, and exercises, and I'll save them.\n*   **Update workouts**: Need to change something on a logged day? Just let me know.\n*   **View your progress**: I can show you specific workout days or all your logs for a category.\n*   **Provide statistics**: Ask me for insights into your overall progress.\n*   **Set reminders**: I can help you remember to drink water, take supplements, or anything else you need.\n*   **Manage memory**: I can save persistent instructions for myself or create backups of your data.\n*   **Offer motivation**: I'm always here to cheer you on!\n\nRegarding your calculations:\n*   1 divided by 1 is **1**.\n*   1 plus 1 is **2**.\n*   1 plus 1 is **2**.\n\nHow can I help you with your fitness goals today, John? 💪",
+        "createdAt": "2026-03-02T03:46:20.216Z"
+      },
+      {
+        "id": 52,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:46:29.219Z"
+      },
+      {
+        "id": 53,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:46:42.619Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:47:07.220Z"
+      },
+      {
+        "id": 46,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:47:15.919Z"
+      },
+      {
+        "id": 47,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:47:23.020Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:48:03.219Z"
+      },
+      {
+        "id": 46,
+        "role": "user",
+        "content": "sup",
+        "createdAt": "2026-03-02T03:48:23.993Z"
+      },
+      {
+        "id": 47,
+        "role": "user",
+        "content": "sup",
+        "createdAt": "2026-03-02T03:48:24.720Z"
+      },
+      {
+        "id": 48,
+        "role": "model",
+        "content": "Hey there, John! It's great to hear from you again!\n\nHow can I help you crush your fitness goals today? Ready to log a workout or got any questions about your progress? 💪",
+        "createdAt": "2026-03-02T03:48:25.029Z"
+      },
+      {
+        "id": 49,
+        "role": "user",
+        "content": "sip",
+        "createdAt": "2026-03-02T03:48:44.771Z"
+      },
+      {
+        "id": 50,
+        "role": "model",
+        "content": "Hey there, John!\n\nHow can I help you with your fitness journey today? Ready to log a workout or discuss your progress? 💪",
+        "createdAt": "2026-03-02T03:48:45.870Z"
+      },
+      {
+        "id": 51,
+        "role": "user",
+        "content": "sip",
+        "createdAt": "2026-03-02T03:48:47.921Z"
+      },
+      {
+        "id": 52,
+        "role": "user",
+        "content": "HI",
+        "createdAt": "2026-03-02T03:49:18.453Z"
+      },
+      {
+        "id": 53,
+        "role": "model",
+        "content": "Hey there, John!\n\nHow can I help you with your fitness journey today? Ready to log a workout or discuss your progress? 💪",
+        "createdAt": "2026-03-02T03:49:19.896Z"
+      },
+      {
+        "id": 54,
+        "role": "user",
+        "content": "2 +56",
+        "createdAt": "2026-03-02T03:49:31.514Z"
+      },
+      {
+        "id": 55,
+        "role": "model",
+        "content": "2 + 56 equals **58**.\n\nHow can I help you with your workout logs or fitness questions, John? 💪",
+        "createdAt": "2026-03-02T03:49:32.302Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "HI",
+        "createdAt": "2026-03-02T03:51:42.219Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "HIU",
+        "createdAt": "2026-03-02T03:51:59.420Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "gi",
+        "createdAt": "2026-03-02T03:53:07.919Z"
+      },
+      {
+        "id": 46,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:53:15.219Z"
+      },
+      {
+        "id": 47,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:53:24.120Z"
+      },
+      {
+        "id": 48,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:53:44.619Z"
+      },
+      {
+        "id": 49,
+        "role": "user",
+        "content": "bi",
+        "createdAt": "2026-03-02T03:53:56.950Z"
+      },
+      {
+        "id": 50,
+        "role": "model",
+        "content": "Hey there, John! It's great to hear from you!\n\nHow can I help you crush your fitness goals today? Ready to log a workout or got any questions about your progress? 💪",
+        "createdAt": "2026-03-02T03:53:57.874Z"
+      },
+      {
+        "id": 51,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:54:00.122Z"
+      },
+      {
+        "id": 52,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:54:06.720Z"
+      },
+      {
+        "id": 53,
+        "role": "user",
+        "content": "1+1 minus  3000",
+        "createdAt": "2026-03-02T03:54:21.119Z"
+      },
+      {
+        "id": 54,
+        "role": "user",
+        "content": "hey",
+        "createdAt": "2026-03-02T03:54:38.220Z"
+      },
+      {
+        "id": 55,
+        "role": "user",
+        "content": "who are you",
+        "createdAt": "2026-03-02T03:54:43.719Z"
+      },
+      {
+        "id": 56,
+        "role": "user",
+        "content": "hu",
+        "createdAt": "2026-03-02T03:55:11.367Z"
+      },
+      {
+        "id": 57,
+        "role": "model",
+        "content": "Hey there, John!\n\n1 + 1 minus 3000 equals **-2998**.\n\nAnd to answer your question, I am your personal AI workout assistant, here in the \"John's Lock-In Logs\" app! I'm here to help you track your workouts, stay motivated, and achieve your fitness goals.\n\nHow can I help you today, John? 💪",
+        "createdAt": "2026-03-02T03:55:12.567Z"
+      },
+      {
+        "id": 58,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:55:16.219Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:56:02.623Z"
+      },
+      {
+        "id": 46,
+        "role": "model",
+        "content": "Hey there, John! Great to hear from you!\n\nHow can I help you with your fitness journey today? Ready to log a workout or discuss your progress? 💪",
+        "createdAt": "2026-03-02T03:56:03.477Z"
+      },
+      {
+        "id": 47,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:56:11.619Z"
+      },
+      {
+        "id": 48,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:56:22.977Z"
+      },
+      {
+        "id": 49,
+        "role": "model",
+        "content": "Hey there, John! It's great to hear from you!\n\nHow can I help you crush your fitness goals today? Ready to log a workout or got any questions about your progress? 💪",
+        "createdAt": "2026-03-02T03:56:24.024Z"
+      },
+      {
+        "id": 50,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:56:25.219Z"
+      },
+      {
+        "id": 51,
+        "role": "user",
+        "content": "what is most intense day",
+        "createdAt": "2026-03-02T03:56:41.973Z"
+      },
+      {
+        "id": 52,
+        "role": "model",
+        "content": "Hey there, John! Welcome back!\n\nBased on your incredible progress and the data in your logs, the **most intense day** would definitely be:\n\n*   **Gym Workout Day 15!** You absolutely crushed it with a **Personal Record (PR) of 110kg (243 lb) for 5 reps on your Back Squat!** That's an outstanding achievement, coupled with your heaviest ever Leg Press (200kg) and challenging Bulgarian Split Squats.\n\n**Gym Workout Day 14** also deserves a special mention for its intensity, with you hitting 100kg on back squats for an AMRAP of 6 reps, along with very heavy Romanian Deadlifts and Walking Lunges.\n\nFor your **Home Workouts**, **Day 14 and 15** were exceptionally high in volume and grit, with 160 reps of 20kg back squats, loaded walks, and weighted bodyweight exercises.\n\nYou've been pushing your limits consistently, and that 110kg squat PR on Gym Day 15 is truly a testament to your hard work! Keep that fire burning, John! 💪",
+        "createdAt": "2026-03-02T03:56:43.881Z"
+      },
+      {
+        "id": 53,
+        "role": "user",
+        "content": "what is most intense day",
+        "createdAt": "2026-03-02T03:56:44.719Z"
+      },
+      {
+        "id": 54,
+        "role": "user",
+        "content": "what am i?",
+        "createdAt": "2026-03-02T03:56:55.519Z"
+      },
+      {
+        "id": 55,
+        "role": "user",
+        "content": "ho",
+        "createdAt": "2026-03-02T03:57:15.019Z"
+      },
+      {
+        "id": 56,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:57:55.407Z"
+      },
+      {
+        "id": 57,
+        "role": "model",
+        "content": "Hey there, John!\n\nBased on your incredible progress and the data in your logs, the **most intense day** was clearly **Gym Workout Day 15**, where you hit a massive **Personal Record (PR) of 110kg (243 lb) for 5 reps on your Back Squat!** That was a phenomenal display of strength.\n\nAnd you, John, are my user, the incredible individual I'm here to assist with all your workout logging and fitness needs in the \"John's Lock-In Logs\" app!\n\nKeep up the fantastic work, John! 💪",
+        "createdAt": "2026-03-02T03:57:57.059Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T03:58:06.952Z"
+      },
+      {
+        "id": 46,
+        "role": "model",
+        "content": "Hey there, John! Great to hear from you again!\n\nHow can I help you crush your fitness goals today? Ready to log a workout or got any questions about your progress? 💪",
+        "createdAt": "2026-03-02T03:58:07.843Z"
+      },
+      {
+        "id": 47,
+        "role": "user",
+        "content": "1-1",
+        "createdAt": "2026-03-02T03:58:20.648Z"
+      },
+      {
+        "id": 48,
+        "role": "model",
+        "content": "1 - 1 equals **0**.\n\nHow can I help you with your workout logs or fitness questions, John? 💪",
+        "createdAt": "2026-03-02T03:58:21.425Z"
+      },
+      {
+        "id": 49,
+        "role": "user",
+        "content": "who am i?",
+        "createdAt": "2026-03-02T03:58:30.159Z"
+      },
+      {
+        "id": 50,
+        "role": "model",
+        "content": "You are **John**, my dedicated user and the incredible individual I'm here to assist with all your workout logging and fitness needs in the \"John's Lock-In Logs\" app!\n\nHow can I help you today, John? Ready to tackle some fitness goals? 💪",
+        "createdAt": "2026-03-02T03:58:31.274Z"
+      },
+      {
+        "id": 51,
+        "role": "user",
+        "content": "what time is it",
+        "createdAt": "2026-03-02T03:58:38.667Z"
+      },
+      {
+        "id": 52,
+        "role": "model",
+        "content": "It's **11:08:14 AM** on March 2, 2026.\n\nKeep that fitness clock ticking, John! 💪",
+        "createdAt": "2026-03-02T03:58:39.320Z"
+      },
+      {
+        "id": 53,
+        "role": "user",
+        "content": "set a reminder once in 10 sec to drink whey",
+        "createdAt": "2026-03-02T03:58:55.874Z"
+      },
+      {
+        "id": 54,
+        "role": "model",
+        "content": "Done!",
+        "createdAt": "2026-03-02T03:58:57.018Z"
+      },
+      {
+        "id": 55,
+        "role": "user",
+        "content": "set a reminder once in 10 sec to drink whey",
+        "createdAt": "2026-03-02T03:59:37.180Z"
+      },
+      {
+        "id": 56,
+        "role": "model",
+        "content": "Alright, John! I've set a **one-time reminder** for you to **drink whey** in 10 seconds.\n\nGreat job staying on top of your nutrition! Every detail counts for those gains! 💪",
+        "createdAt": "2026-03-02T03:59:39.268Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "set a reminder once in 10 sec to drink whey",
+        "createdAt": "2026-03-02T04:00:26.657Z"
+      },
+      {
+        "id": 46,
+        "role": "model",
+        "content": "Done!",
+        "createdAt": "2026-03-02T04:00:27.791Z"
+      },
+      {
+        "id": 47,
+        "role": "user",
+        "content": "set a reminder once in 10 sec to drink whey",
+        "createdAt": "2026-03-02T04:00:40.501Z"
+      },
+      {
+        "id": 48,
+        "role": "model",
+        "content": "Alright, John! I've set a **one-time reminder** for you to **drink whey** in 10 seconds.\n\nConsistency with your supplements is key! Keep up the excellent work! 💪",
+        "createdAt": "2026-03-02T04:00:42.789Z"
+      },
+      {
+        "id": 49,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-02T04:01:17.608Z"
+      },
+      {
+        "id": 50,
+        "role": "model",
+        "content": "Hey there, John! Great to hear from you!\n\nHow can I help you crush your fitness goals today? Ready to log a workout or got any questions about your progress? 💪",
+        "createdAt": "2026-03-02T04:01:18.468Z"
+      },
+      {
+        "id": 51,
+        "role": "user",
+        "content": "who am i?",
+        "createdAt": "2026-03-02T04:01:23.489Z"
+      },
+      {
+        "id": 52,
+        "role": "model",
+        "content": "You are **John**, my dedicated user and the incredible individual I'm here to assist with all your workout logging and fitness needs in the \"John's Lock-In Logs\" app!\n\nHow can I help you achieve your fitness goals today, John? 💪",
+        "createdAt": "2026-03-02T04:01:24.611Z"
+      },
+      {
+        "id": 45,
+        "role": "user",
+        "content": "HI",
+        "createdAt": "2026-03-02T04:12:49.983Z"
+      },
+      {
+        "id": 46,
+        "role": "model",
+        "content": "Hey there, John! Great to hear from you!\n\nHow can I help you crush your fitness goals today? Ready to log a workout or got any questions about your progress? 💪",
+        "createdAt": "2026-03-02T04:12:50.846Z"
+      },
+      {
+        "id": 47,
+        "role": "user",
+        "content": "DELETE D17",
+        "createdAt": "2026-03-02T04:13:51.941Z"
+      },
+      {
+        "id": 48,
+        "role": "model",
+        "content": "I can delete Day 17 for you, John! Just to confirm, is that for your **Home Workouts** or **Gym Workouts**?\n\nOnce you tell me the category, I'll delete it right away! 💪",
+        "createdAt": "2026-03-02T04:13:52.954Z"
+      },
+      {
+        "id": 49,
+        "role": "user",
+        "content": "YES",
+        "createdAt": "2026-03-02T04:14:00.558Z"
+      },
+      {
+        "id": 50,
+        "role": "model",
+        "content": "I understand you want to delete Day 17, John! However, I still need to know which category: **Home Workouts** or **Gym Workouts**?\n\nPlease specify so I can correctly delete it for you! 💪",
+        "createdAt": "2026-03-02T04:14:02.214Z"
+      },
+      {
+        "id": 51,
+        "role": "user",
+        "content": "HOME",
+        "createdAt": "2026-03-02T04:14:11.197Z"
+      },
+      {
+        "id": 52,
+        "role": "model",
+        "content": "Alright, John! I've successfully **deleted Home Workout Day 17** for you.\n\nYou're staying on top of your logs, which is a key part of your fitness journey! Keep up the great work! 💪",
+        "createdAt": "2026-03-02T04:14:14.567Z"
+      },
+      {
+        "id": 1,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-04T07:43:08.786Z"
+      },
+      {
+        "id": 2,
+        "role": "user",
+        "content": "hi",
+        "createdAt": "2026-03-04T07:43:16.032Z"
+      }
+    ],
+    "browser_memory": [],
+    "reminders": [
+      {
+        "id": 1,
+        "message": "Drink water",
+        "triggerAt": "2026-03-02T03:10:46.468Z",
+        "sent": true,
+        "createdAt": "2026-03-02T03:10:36.507Z"
+      },
+      {
+        "id": 1,
+        "message": "drink",
+        "triggerAt": "2026-03-02T03:11:50.123Z",
+        "sent": true,
+        "createdAt": "2026-03-02T03:11:40.162Z"
+      },
+      {
+        "id": 2,
+        "message": "drink",
+        "triggerAt": "2026-03-02T03:15:32.798Z",
+        "sent": true,
+        "createdAt": "2026-03-02T03:15:22.837Z"
+      },
+      {
+        "id": 1,
+        "message": "Drink water",
+        "triggerAt": "2026-03-02T03:18:47.144Z",
+        "sent": true,
+        "isRecurring": false,
+        "intervalMs": 0,
+        "createdAt": "2026-03-02T03:18:41.016Z"
+      },
+      {
+        "id": 2,
+        "message": "Drink creatine",
+        "triggerAt": "2026-03-02T03:19:26.542Z",
+        "sent": true,
+        "isRecurring": false,
+        "intervalMs": 0,
+        "createdAt": "2026-03-02T03:19:17.882Z"
+      },
+      {
+        "id": 1,
+        "message": "Drink whey",
+        "triggerAt": "2026-03-02T03:33:37.613Z",
+        "sent": true,
+        "isRecurring": false,
+        "intervalMs": 0,
+        "createdAt": "2026-03-02T03:33:19.187Z"
+      },
+      {
+        "id": 1,
+        "message": "drink whey",
+        "triggerAt": "2026-03-02T04:00:07.219Z",
+        "sent": true,
+        "isRecurring": false,
+        "intervalMs": 0,
+        "createdAt": "2026-03-02T03:59:38.338Z"
+      },
+      {
+        "id": 1,
+        "message": "drink whey",
+        "triggerAt": "2026-03-02T04:00:50.540Z",
+        "sent": true,
+        "isRecurring": false,
+        "intervalMs": 0,
+        "createdAt": "2026-03-02T04:00:41.974Z"
+      }
+    ],
+    "backup_logs": [
+      {
+        "action": "download",
+        "timestamp": "2026-03-02T03:16:25.063Z",
+        "details": "Manual backup via TG, 44607 bytes"
+      },
+      {
+        "action": "download",
+        "timestamp": "2026-03-05T04:22:34.844Z",
+        "details": "Full backup exported with 64776 bytes"
+      },
+      {
+        "action": "download",
+        "timestamp": "2026-03-05T04:24:56.284Z",
+        "details": "Web backup, 88010 bytes"
+      }
+    ],
+    "counters": [
+      {
+        "seq": 0
+      },
+      {
+        "seq": 2
+      },
+      {
+        "seq": 0
+      },
+      {
+        "seq": 0
+      },
+      {
+        "seq": 10
+      }
+    ],
+    "supplements": [
+      {
+        "id": 1,
+        "name": "Creatine",
+        "amount": "5g",
+        "color": "#7c5cff"
+      },
+      {
+        "id": 2,
+        "name": "Whey",
+        "amount": "132g (33g = 50g of protein)",
+        "color": "#38bdf8"
+      },
+      {
+        "id": 3,
+        "name": "Caffeine",
+        "amount": "700mg",
+        "color": "#f59e0b"
+      },
+      {
+        "id": 4,
+        "name": "L-Citrulline",
+        "amount": "8,000 mg",
+        "color": "#22c55e"
+      },
+      {
+        "id": 5,
+        "name": "Beta-Alanine",
+        "amount": "3,200 mg",
+        "color": "#ec4899"
+      },
+      {
+        "id": 6,
+        "name": "L-Theanine",
+        "amount": "400 mg",
+        "color": "#a78bfa"
+      },
+      {
+        "id": 7,
+        "name": "Dicaffeine Malate",
+        "amount": "300 mg",
+        "color": "#f97316"
+      },
+      {
+        "id": 8,
+        "name": "BioPerine (Piperine 50:1)",
+        "amount": "4.8 mg",
+        "color": "#14b8a6"
+      },
+      {
+        "id": 9,
+        "name": "Capsaicine",
+        "amount": "3 mg",
+        "color": "#ef4444"
+      },
+      {
+        "id": 10,
+        "name": "Neurocore Secret Blend",
+        "amount": "5,523 mg",
+        "color": "#8b5cf6"
+      }
+    ]
+  }
+}
